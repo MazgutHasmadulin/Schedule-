@@ -1,0 +1,88 @@
+.modal-body
+{
+    text-align: left;
+}
+.btn-primary
+{
+
+    color: black;
+    background: rgb(241, 159, 159);
+    border:2px solid rgb(241, 159, 159);
+}
+.btn-primary:hover
+{
+    color: black;
+    background: rgb(238, 221, 221);
+    border:2px solid rgb(241, 159, 159);
+}
+.btn-primary:active
+{
+    color: black;
+    background: rgb(238, 221, 221);
+    border:0px solid rgb(241, 159, 159);
+}
+.example
+{
+    padding:10% 20% 10% 20%;
+    text-align: center
+    /* padding:5px 10px 5px 10px; */
+    
+}
+.th1
+{
+    padding:0px 0px 0px 5px ;
+}
+.container
+{
+    margin:2% auto auto auto;
+}    
+body
+{
+    background-color: rgb(241, 250, 252);
+}
+.table
+{
+
+}
+.thead
+{
+    
+    background-color: rgb(245, 195, 195);
+    color:black;
+}
+.example
+{
+    
+    background-color: rgb(243, 223, 223);
+    color:black;
+}
+/*rgb(241, 159, 159)*/
+* {margin: 0;}
+  
+  html,
+  body 
+  {
+    height: 100%;
+  }
+  
+  body 
+  {
+    display: flex;
+    flex-direction: column;
+  }
+  footer 
+  {
+    display: flex;
+    flex: 0 0 auto;
+    padding: 1rem;
+    background: #212529;
+    color: rgb(241, 250, 252);
+    justify-content:center;
+  }
+  .bg-custom  
+  {
+      background-color: #212529;
+  }
+
+
+
